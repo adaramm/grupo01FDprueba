@@ -11,3 +11,4 @@ void imprimir_daniel();
 void imprimir_giovanna();
 void imprimir_edel();
 void imprimir_ivan();
+void imprimir_ian();
